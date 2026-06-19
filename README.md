@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harish%20-%20AI%20Engineer&fontSize=35&fontColor=ffffff" />
 </p>
