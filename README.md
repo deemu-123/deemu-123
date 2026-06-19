@@ -81,3 +81,42 @@ Mindset: Discipline > Motivation
 
 ---
 ---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deemu-123&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deemu-123&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (VERY COOL 🔥)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deemu-123/deemu-123/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deemu-123&layout=compact&theme=radical" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```diff
++ I don't stop when I'm tired.
++ I stop when I'm done.
+```
+
