@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harish%20-%20AI%20Engineer&fontSize=35&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Harish</h1>
 <h3 align="center">🚀 AIML Engineer | Future Software Developer | Tech Enthusiast</h3>
 
